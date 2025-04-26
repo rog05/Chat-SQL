@@ -25,8 +25,8 @@ Home	Chatting
 bash
 Copy
 Edit
-git clone https://github.com/rog05/chat-with-sql-db.git
-cd chat-with-sql-db
+git clone https://github.com/rog05/Chat-SQL/tree/main
+cd Chat-SQL
 2. Create a Virtual Environment (Optional but Recommended)
 bash
 Copy
@@ -46,7 +46,7 @@ streamlit run app.py
 🔑 Prerequisites
 Python 3.8 or above
 
-Groq API Key (Get it here)
+Groq API Key 
 
 (Optional) A local student.db SQLite file or your own MySQL database credentials.
 
@@ -94,15 +94,8 @@ Performance Tip: SQLite connection is read-only. For large queries, prefer MySQL
 
 🙌 Acknowledgements
 LangChain
-
 Streamlit
-
 Groq
-
-📬 Contact
-Feel free to connect for collaboration, issues, or ideas!
-GitHub: yourusername
-Email: your.email@example.com
 
 ⭐️ Give a Star!
 If you like this project, please star ⭐️ the repository to support open-source work!
