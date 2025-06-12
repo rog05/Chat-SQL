@@ -15,10 +15,6 @@ Easily explore, query, and interact with your database — without writing compl
 
 ✅ Secure input for sensitive information (e.g., API keys, passwords).
 
-📷 Screenshots
-
-Home	Chatting
-(Add your screenshots after uploading them to GitHub.)
 
 🛠️ Installation
 1. Clone the Repository
